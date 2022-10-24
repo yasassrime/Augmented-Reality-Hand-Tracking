@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueGoal
+  - RedGoal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ARDK_MockWorld
+  - sky
+  - ground
+  - artificial_ground
+  - water
+  - building
+  - foliage
+  - grass
+  - natural_ground
+  - person
+  - flower_experimental
+  - tree_trunk_experimental
+  - pet_experimental
+  - sand_experimental
+  - tv_experimental
+  - dirt_experimental
+  - vehicle_experimental
+  - food_experimental
+  - loungeable_experimental
+  - snow_experimental
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
